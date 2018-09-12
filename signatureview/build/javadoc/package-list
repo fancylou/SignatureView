@@ -1,0 +1,12 @@
+android.arch.core
+android.arch.lifecycle
+android.arch.lifecycle.livedata.core
+android.arch.lifecycle.viewmodel
+android.support.compat
+android.support.coreui
+android.support.coreutils
+android.support.fragment
+android.support.graphics.drawable
+android.support.graphics.drawable.animated
+android.support.v7.appcompat
+io.o2oa.signatureview

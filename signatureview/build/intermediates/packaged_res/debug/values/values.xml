@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SignatureView"><attr format="color" name="penColor"/><attr format="color" name="svBackgroundColor"/><attr format="dimension" name="penSize"/><attr format="boolean" name="enableSignature"/></declare-styleable>
+    <string name="app_name">SignatureView</string>
+</resources>
